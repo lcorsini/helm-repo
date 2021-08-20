@@ -6,7 +6,7 @@ restartPolicy: Always
 
 image:
   repository: lcorsini/prometheus-bigquery-exporter
-  tag: v1.1.0
+  tag: v1.2.0
   pullPolicy: IfNotPresent
 
 resources: {}
