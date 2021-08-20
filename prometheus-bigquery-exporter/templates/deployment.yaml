@@ -52,6 +52,8 @@ spec:
           args:
             - '-config'
             - {{ .Values.configfile }}
+            - '-project'
+            - {{ .Values.bigQuery.projectId }}
             - '-logx.debug'
             - {{ .Values.debuglog | quote }}
           volumeMounts:

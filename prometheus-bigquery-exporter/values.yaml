@@ -30,6 +30,7 @@ configfile: ""
 debuglog: "false"
 
 bigQuery:
+  projectId: ""
   queriesConfigMap: 
 
 ## Pod affinity
