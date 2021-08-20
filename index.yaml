@@ -3,9 +3,9 @@ entries:
   prometheus-bigquery-exporter:
   - apiVersion: v1
     appVersion: 1.2.0
-    created: "2021-08-20T15:51:46.890021+02:00"
+    created: "2021-08-20T15:58:57.889492+02:00"
     description: BigQuery exporter for Prometheus
-    digest: 1ea2f6a3099ac34418fa1289761cb89e28673405f94471908a988f55e42988ef
+    digest: f41c9c85d5599a362cd034cc4122574b6d4a760d20dd41dc0944320d75ab82d5
     keywords:
     - metrics
     - monitoring
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://lcorsini.github.io/helm-repo/prometheus-bigquery-exporter-0.2.0.tgz
     version: 0.2.0
-generated: "2021-08-20T15:51:46.887745+02:00"
+generated: "2021-08-20T15:58:57.888685+02:00"
